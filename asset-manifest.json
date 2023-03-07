@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.48921d6b.css",
-    "main.js": "/portfolio/static/js/main.d738f86d.js",
+    "main.css": "/portfolio/static/css/main.2b33c7c1.css",
+    "main.js": "/portfolio/static/js/main.140f74ab.js",
     "static/js/787.28525a86.chunk.js": "/portfolio/static/js/787.28525a86.chunk.js",
     "static/media/fotoku.jpg": "/portfolio/static/media/fotoku.4dd0c7acfa1a722122fb.jpg",
     "static/media/persondum.png": "/portfolio/static/media/persondum.20795a6210ca7495296d.png",
@@ -9,18 +9,19 @@
     "static/media/dummodel.png": "/portfolio/static/media/dummodel.116b49700feac72304f7.png",
     "static/media/minime2.png": "/portfolio/static/media/minime2.6d4d60cf8edfd4193f8b.png",
     "static/media/dumimg.png": "/portfolio/static/media/dumimg.06da9f514b4844dbf512.png",
+    "static/media/meinchar.jpg": "/portfolio/static/media/meinchar.c9e78bc270b418d7533b.jpg",
     "static/media/minime.png": "/portfolio/static/media/minime.7385317cd0445d2c96a0.png",
     "static/media/projekmcss.png": "/portfolio/static/media/projekmcss.c43c9c5fe43bb62047da.png",
     "static/media/projekplantis.png": "/portfolio/static/media/projekplantis.7633549644e9e15c12ed.png",
     "static/media/untukkontak.jpg": "/portfolio/static/media/untukkontak.125670d8fb6aa7dda458.jpg",
     "static/media/plantis.jpg": "/portfolio/static/media/plantis.668ad673e0b2450cfb08.jpg",
     "index.html": "/portfolio/index.html",
-    "main.48921d6b.css.map": "/portfolio/static/css/main.48921d6b.css.map",
-    "main.d738f86d.js.map": "/portfolio/static/js/main.d738f86d.js.map",
+    "main.2b33c7c1.css.map": "/portfolio/static/css/main.2b33c7c1.css.map",
+    "main.140f74ab.js.map": "/portfolio/static/js/main.140f74ab.js.map",
     "787.28525a86.chunk.js.map": "/portfolio/static/js/787.28525a86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48921d6b.css",
-    "static/js/main.d738f86d.js"
+    "static/css/main.2b33c7c1.css",
+    "static/js/main.140f74ab.js"
   ]
 }
